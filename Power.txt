@@ -15,19 +15,19 @@ Orbit number 1014 Not ok
 Orbit number 1015 ok
 
 
-rgb(0, 255, 0) - Lime Green
-rgb(17, 238, 0) - A bright green shade
-rgb(34, 221, 0) - A slightly darker green shade
-rgb(51, 204, 0) - A deeper green shade
-rgb(68, 187, 0) - A rich green shade
-rgb(85, 170, 0) - A vibrant green shade
-rgb(102, 153, 0) - A bold green shade
-rgb(119, 136, 0) - A strong green shade
-rgb(136, 119, 0) - A vivid green shade
-rgb(153, 102, 0) - A warm green shade
-rgb(170, 85, 0) - An intense orange-green shade
-rgb(187, 68, 0) - A deep orange-green shade
-rgb(204, 51, 0) - A dark orange shade
-rgb(221, 34, 0) - A bright orange shade
-rgb(238, 17, 0) - A vivid orange-red shade
-rgb(255, 0, 0) - Red
+       (15,0) = rgb(0, 255, 0) - Lime Green
+       (14,1) = rgb(17, 238, 0) - A bright green shade
+       (13,2) = rgb(34, 221, 0) - A slightly darker green shade
+       (12,3) = rgb(51, 204, 0) - A deeper green shade
+       (11,4) = rgb(68, 187, 0) - A rich green shade
+       (10,5) = rgb(85, 170, 0) - A vibrant green shade
+       (9,6)  = rgb(102, 153, 0) - A bold green shade
+       (8,7)  = rgb(119, 136, 0) - A strong green shade
+       (7,8)  = rgb(136, 119, 0) - A vivid green shade
+       (6,9)  = rgb(153, 102, 0) - A warm green shade
+       (5,10) = rgb(170, 85, 0) - An intense orange-green shade
+       (4,11) = rgb(187, 68, 0) - A deep orange-green shade
+       (3,12) = rgb(204, 51, 0) - A dark orange shade
+       (2,13) = rgb(221, 34, 0) - A bright orange shade
+       (1,14) = rgb(238, 17, 0) - A vivid orange-red shade
+       (0,15) = rgb(255, 0, 0) - Red
