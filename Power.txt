@@ -13,3 +13,21 @@ Orbit number 1012 Not ok
 Orbit number 1013 ok
 Orbit number 1014 Not ok
 Orbit number 1015 ok
+
+
+rgb(0, 255, 0) - Lime Green
+rgb(17, 238, 0) - A bright green shade
+rgb(34, 221, 0) - A slightly darker green shade
+rgb(51, 204, 0) - A deeper green shade
+rgb(68, 187, 0) - A rich green shade
+rgb(85, 170, 0) - A vibrant green shade
+rgb(102, 153, 0) - A bold green shade
+rgb(119, 136, 0) - A strong green shade
+rgb(136, 119, 0) - A vivid green shade
+rgb(153, 102, 0) - A warm green shade
+rgb(170, 85, 0) - An intense orange-green shade
+rgb(187, 68, 0) - A deep orange-green shade
+rgb(204, 51, 0) - A dark orange shade
+rgb(221, 34, 0) - A bright orange shade
+rgb(238, 17, 0) - A vivid orange-red shade
+rgb(255, 0, 0) - Red
